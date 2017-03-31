@@ -1,0 +1,3 @@
+rootProject.name = 'rnFirebaseAuth'
+
+include ':app'
