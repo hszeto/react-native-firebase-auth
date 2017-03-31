@@ -4,7 +4,7 @@
    npm install --save redux react-redux   
    npm install --save redux-thunk   
 
-* firebase for authentication 
+* firebase for authentication   
   npm install --save firebase   
 
 * react-native-router-flux for routing   
